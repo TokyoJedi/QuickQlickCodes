@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Q3: Quick Qlick Qodes</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_join">Get Started</string>
+    <string name="main_fragment_about">
+        Works with Xbox 360 and Xbox One.\nStackable! Add up to 3 years.\nNo region restrictions.\n\n
+    </string>
+     <string name="main_fragment_card_info">
+        Buy a 12 month Xbox Live Gold membership today and reap the rewards of the best online gaming experience! Enjoy Gold member discounts and free games! \n
+    </string>
+
+</resources>
